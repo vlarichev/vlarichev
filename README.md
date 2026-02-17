@@ -7,16 +7,15 @@ Industrial AI · Generative AI · Engineering
 > Focus on traceability, orchestration, and integration into complex enterprise toolchains.
 
 ## Focus
-- Digital Reasoning Thread - traceable reasoning across engineering and manufacturing
+- Digital Reasoning Thread (https://digital-reasoning-thread.com) - traceable reasoning across engineering and manufacturing
 - Agentic AI for real-world industrial systems
 - Scaling GenAI beyond demos into production
 
-## Selected projects
+## Selected past projects 
 - Digital Reasoning Thread
 - Corona Map
 - IoT GPT
-- Project archive: https://vladlarichev.com/p/
-
+  
 ## Writing & speaking
 - Blog: https://vladlarichev.com
 - Public speaking & interviews: https://vladlarichev.com/public-speaking-and-interviews/
